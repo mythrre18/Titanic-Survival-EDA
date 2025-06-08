@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival EDA & Prediction Model
+Titanic Survival EDA & Prediction Model
 
 **Author**: Mythrre Thota  
 **Date**: 8 June 2025  
